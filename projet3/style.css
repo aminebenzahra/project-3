@@ -1,0 +1,37 @@
+.submit{
+	background-color: #518acb;
+    padding: 8px 90px;
+    font-size: 20px;
+    border-radius: 4px;
+}
+.imagee{
+	background-color: #111723;
+	border: 3px red;
+}
+*
+{
+	font-family: Comic Sans MS, Comic Sans, cursive;
+}
+body
+{
+	border: 3px red;
+}
+.text
+{
+	width:300px;
+	height:30px;
+	border-radius: 4px;
+}
+.white
+{
+	color: white;
+}
+.yellow
+{
+	color: white;
+	border: 3px white;
+}
+body
+{
+	text-align: center;
+}
